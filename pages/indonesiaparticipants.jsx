@@ -41,7 +41,7 @@ export default function Indonesiaparticipants() {
   };
 
   useEffect(() => {
-    const scriptURL = "https://script.google.com/macros/s/AKfycbwKgpF3koWBSx_UnLeeymke7H8viXbxfb9dadMtIaVdmR78oP3gOGE6H1_j3wJvnNbRFA/exec";
+    const scriptURL = "https://script.google.com/macros/s/AKfycbyYprFWo8Muj-OsjciMgpdY0_BccCYeM05JDtUntwGV_gBzxVIaMoZqu6owlPBMkydL/exec";
 
     const form = document.forms["regist-form"];
     var buttonCounter = 0;
