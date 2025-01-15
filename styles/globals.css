@@ -487,6 +487,19 @@ input[type="checkbox"] {
 /* LOADER START */
 /* LOADER START */
 
+.thankyou {
+  /* padding: 75px 25px 75px 25px  ; */
+  height: 100vh;
+  background: var(--warna-tulisan);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: var(--warna-tulisan2) !important;
+  text-align: center;
+}
+
 /* Overlay untuk blur */
 .overlay-loader {
   position: fixed;
